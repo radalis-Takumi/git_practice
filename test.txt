@@ -1,1 +1,3 @@
 new file
+
+feature2ブランチを作ります
